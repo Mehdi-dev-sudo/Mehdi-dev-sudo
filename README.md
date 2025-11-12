@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehdi-dev-sudo&theme=tokyonight&hide_border=true" alt="mehdi streak" />
+  <img src="https://streak-stats.demolab.com/?user=Mehdi-dev-sudo&theme=tokyonight&hide_border=true" alt="mehdi streak" />
 </p>
 
 <p align="center">

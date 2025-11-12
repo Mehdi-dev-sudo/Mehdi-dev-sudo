@@ -36,10 +36,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/Mehdi-dev-sudo/Mehdi-dev-sudo?style=for-the-badge&color=blue" alt="commits" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-dev-sudo&layout=compact&theme=tokyonight&hide_border=true" alt="mehdi languages" />
 </p>
 

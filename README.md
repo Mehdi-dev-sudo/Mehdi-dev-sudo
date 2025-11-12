@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mehdi-dev-sudo&theme=tokyonight&hide_border=true" alt="mehdi streak" />
+  <img src="https://img.shields.io/github/commit-activity/m/Mehdi-dev-sudo/Mehdi-dev-sudo?style=for-the-badge&color=blue" alt="commits" />
 </p>
 
 <p align="center">

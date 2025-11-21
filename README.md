@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mehdi</h1>
-<h3 align="center">Web Developer & Cybersecurity Learner 🕶️</h3>
+<h3 align="center">Web Developer | Future Cybersecurity Engineer 👨‍💻</h3>
 
 ---
 
 ### 💡 About Me
-Focused on learning **secure full‑stack development** and **ethical hacking**.  
-Building small but realistic projects to master the fundamentals of security, Linux, and web performance.  
-Every day I try to **understand systems more deeply** — not just use them.
-
-🌍 Based in *Amol, Iran*  
-🧭 Currently sharpening my Bash & Linux workflow.
+Focused on mastering modern web development — diving deep into JavaScript, frontend architecture, and backend logic to understand how systems truly work.  
+Equally passionate about cybersecurity — aiming to combine both perspectives to build secure and robust web systems.  
+Learning with intent. Building with discipline. 
+🌍 Based in Amol, Iran  
+🧭 Learning every day to move smarter, not faster.
 
 ---
 
@@ -19,7 +18,7 @@ Every day I try to **understand systems more deeply** — not just use them.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Tools & Security:**  
+**Tools & Environment:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
@@ -45,8 +44,8 @@ Every day I try to **understand systems more deeply** — not just use them.
 
 ### 📬 Contact
 <p align="center">
-  <a href="https://github.com/Mehdi-dev-sudo" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:mehdi.khorshidi9339@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/Mehdi-dev-sudo" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://t.me/Mehdi_ds_KH" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram" /></a>
 </p>
 

@@ -6,7 +6,8 @@
 ### 💡 About Me
 Focused on mastering modern web development — diving deep into JavaScript, frontend architecture, and backend logic to understand how systems truly work.  
 Equally passionate about cybersecurity — aiming to combine both perspectives to build secure and robust web systems.  
-Learning with intent. Building with discipline. 
+Learning with intent. Building with discipline.
+
 🌍 Based in Amol, Iran  
 🧭 Learning every day to move smarter, not faster.
 

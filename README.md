@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehdi</h1>
-<h3 align="center">Junior Frontend Developer | Future Full-Stack & Cybersecurity Engineer 👨‍💻</h3>
+<h3 align="center">Junior Frontend Developer 👨‍💻</h3>
 
 ---
 ```javascript

@@ -40,10 +40,11 @@ console.log(developer.sayHi());
 
 <div align="center">
 
-<img src="https://streak-stats.vercel.app/?user=Mehdi-dev-sudo&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.vercel.app/?user=Mehdi-dev-sudo&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mehdi-dev-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=900)
 
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mehdi-dev-sudo&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 

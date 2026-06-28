@@ -1,32 +1,28 @@
-<h1 align="center">Hi 👋, I'm Mehdi</h1>
-<h3 align="center">Junior Frontend Developer 👨‍💻</h3>
+<h1 align="center">Hi ,I'm Mehdi</h1>
+<h3 align="center">Frontend Developer focused on building responsive, accessible, and performant web applications.</h3>
 
 ---
 
 ```javascript
 const developer = {
   name: "Mehdi",
-  age: 16,
-  role: "Junior Frontend Developer",
-  location: "Iran 🇮🇷",
 
   skills: {
     frontend: ["HTML5", "CSS3", "JavaScript ES6+"],
     scripting: ["Bash"],
-    tools: ["Git", "VS Code", "Kali Linux"],
+    tools: ["Git", "VS Code", "Kali Linux", "Figma"],
     learning: ["TypeScript", "React"],
-  }, // still growing
-
-  currentFocus: "Building interactive web experiences",
-  worksWith: ["☕ Coffee", "🎵 Lofi Music", "🌙 Night Coding"],
-
-  goals: {
-    shortTerm: "Master JavaScript & TypeScript",
-    longTerm: "Full-Stack Development",
   },
 
+  currentFocus: "Building interactive web experiences",
+
+  currently: [
+  "Building modern frontend projects",
+  "Learning React & TypeScript",
+  ],
+
   sayHi() {
-    return "Let's build something cool together! 🚀";
+    return "Always learning. Always building.";
   },
 };
 
@@ -48,11 +44,7 @@ console.log(developer.sayHi());
 ### 📊 GitHub Stats
 <div align="center">
 
-  <img src="https://streak-stats.vercel.app/?user=Mehdi-dev-sudo&theme=tokyonight&hide_border=true&cache_seconds=1800" /> <br>
-    
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehdi-dev-sudo&show_icons=true&theme=tokyonight&hide_border=true" /> <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-dev-sudo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.vercel.app/?user=Mehdi-dev-sudo&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   
 </div>
 

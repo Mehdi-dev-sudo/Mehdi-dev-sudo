@@ -42,20 +42,18 @@ console.log(developer.sayHi());
 ---
 
 ### 📊 GitHub Stats
-<picture>
+<center>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://mehdi-dev-sudo.github.io/GhReadmeStats/svgs/stats-dark.svg">
   <img src="https://mehdi-dev-sudo.github.io/GhReadmeStats/svgs/stats-default.svg">
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://mehdi-dev-sudo.github.io/GhReadmeStats/svgs/top-langs-dark.svg">
-  <img src="https://mehdi-dev-sudo.github.io/GhReadmeStats/svgs/top-langs-default.svg">
-</picture>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://mehdi-dev-sudo.github.io/GhReadmeStats/svgs/streak-dark.svg">
   <img src="https://mehdi-dev-sudo.github.io/GhReadmeStats/svgs/streak-default.svg">
 </picture>
+</center>
 
 ---
 
